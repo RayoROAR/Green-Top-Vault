@@ -4,5 +4,8 @@
   "showInlineTitle": false,
   "livePreview": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "userIgnoreFilters": [
+    "partial-views/"
+  ]
 }

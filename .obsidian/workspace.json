@@ -11,28 +11,19 @@
             "id": "505343217d2998bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevLogs/DevLog 7 - To the wall.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "eff1e336c9a3c2bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevLogs/DevLog 8 - Ship it!.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevLogs/DevLog 8 - Ship it!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevLogs/DevLog 8 - Ship it!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DevLogs/DevLog 8 - Ship it!.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -169,11 +156,19 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "eff1e336c9a3c2bf",
+  "active": "505343217d2998bd",
   "lastOpenFiles": [
-    "Green-Top-Vault",
     "DevLogs/DevLog 7 - To the wall.md",
+    "DevLogs/DevLog 1 - Creation.md",
+    "DevLogs.md",
+    "Showcases.md",
+    "Theme testing.md",
+    "TODO Backlog.md",
+    "TODO Checklist.md",
+    "partial-views/navbar.md",
+    "partial-views",
     "DevLogs/DevLog 8 - Ship it!.md",
+    "Green-Top-Vault",
     "DevLogs/DevLog 9 - X.md",
     "media/assets/JamSmall.png.crdownload",
     "media/assets/clouds/cloud3.png",
@@ -188,9 +183,7 @@
     "media/assets/tileset/decals.png.crdownload",
     "media/assets/icon/icon.png",
     "media/assets/icon",
-    "media/assets/Nueva carpeta (2)",
     "media/assets/flower/flower.png",
-    "media/assets/flower/flower.png.crdownload",
     "media/assets/flower/burned_flower.png",
     "media/titlescreen_screenshot.png",
     "media/assets/Nueva carpeta/cloud3.png",
@@ -200,17 +193,10 @@
     "DevLogs/DevLog 4 - Pixel imperfect.md",
     "DevLogs/DevLog 3 - Robot is born.md",
     "DevLogs/DevLog 2 - Idea.md",
-    "DevLogs/DevLog 1 - Creation.md",
-    "DevLogs/Nasty signature.md",
-    "DevLogs/Rayo signature.md",
+    "partial-views/Nasty signature.md",
+    "partial-views/Rayo signature.md",
     "Changelogs/v0.1 - JAM Build.md",
-    "navbar.md",
-    "TODO Backlog.md",
-    "TODO Checklist.md",
-    "Showcases.md",
-    "Theme testing.md",
     "DevLogs/DevLog X - The End.md",
-    "DevLogs.md",
     "Changelogs.md",
     "Welcome.md"
   ]
