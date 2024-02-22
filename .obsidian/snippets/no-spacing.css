@@ -1,0 +1,5 @@
+
+.markdown-preview-view.no-spacing {
+    --p-spacing: 0rem; 
+    --heading-spacing: 0rem;
+}

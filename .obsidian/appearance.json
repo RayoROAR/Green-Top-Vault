@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Atom Custom",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "no-spacing",
+    "hide-properties"
+  ]
+}

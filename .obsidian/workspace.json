@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "ecfa0547dc19bbac",
+    "type": "split",
+    "children": [
+      {
+        "id": "356fcc4820a54792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "505343217d2998bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevLogs/DevLog 7 - To the wall.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eff1e336c9a3c2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevLogs/DevLog 8 - Ship it!.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cb04a68f0fd048b",
+    "type": "split",
+    "children": [
+      {
+        "id": "560b3b8786169775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f7ee31763e3c647",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86b752562e5b93db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09d1e4d716e3bb89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8af7a2460ec8b39c",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04f4682e0aa64e6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "47265ec6ef252162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b051ed79f2e78b02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevLogs/DevLog 8 - Ship it!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "595ff80a4a1de64a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevLogs/DevLog 8 - Ship it!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd036d8bad73ebba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1e184bbb131195b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevLogs/DevLog 8 - Ship it!.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-gallery:Gallery": false
+    }
+  },
+  "active": "eff1e336c9a3c2bf",
+  "lastOpenFiles": [
+    "Green-Top-Vault",
+    "DevLogs/DevLog 7 - To the wall.md",
+    "DevLogs/DevLog 8 - Ship it!.md",
+    "DevLogs/DevLog 9 - X.md",
+    "media/assets/JamSmall.png.crdownload",
+    "media/assets/clouds/cloud3.png",
+    "media/assets/clouds/cloud3.png.crdownload",
+    "media/assets/clouds/cloud2.png",
+    "media/assets/clouds/cloud2.png.crdownload",
+    "media/assets/clouds/cloud1.png",
+    "media/assets/clouds/cloud1.png.crdownload",
+    "media/assets/clouds",
+    "media/assets/icon/icon.png.crdownload",
+    "media/assets/tileset/decals.png",
+    "media/assets/tileset/decals.png.crdownload",
+    "media/assets/icon/icon.png",
+    "media/assets/icon",
+    "media/assets/Nueva carpeta (2)",
+    "media/assets/flower/flower.png",
+    "media/assets/flower/flower.png.crdownload",
+    "media/assets/flower/burned_flower.png",
+    "media/titlescreen_screenshot.png",
+    "media/assets/Nueva carpeta/cloud3.png",
+    "media/assets/Nueva carpeta/cloud2.png",
+    "DevLogs/DevLog 6 - It's spreading.md",
+    "DevLogs/DevLog 5 - Fire and Water.md",
+    "DevLogs/DevLog 4 - Pixel imperfect.md",
+    "DevLogs/DevLog 3 - Robot is born.md",
+    "DevLogs/DevLog 2 - Idea.md",
+    "DevLogs/DevLog 1 - Creation.md",
+    "DevLogs/Nasty signature.md",
+    "DevLogs/Rayo signature.md",
+    "Changelogs/v0.1 - JAM Build.md",
+    "navbar.md",
+    "TODO Backlog.md",
+    "TODO Checklist.md",
+    "Showcases.md",
+    "Theme testing.md",
+    "DevLogs/DevLog X - The End.md",
+    "DevLogs.md",
+    "Changelogs.md",
+    "Welcome.md"
+  ]
+}
