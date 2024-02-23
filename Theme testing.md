@@ -7,6 +7,7 @@
 Normal
 *Italics*
 **Bold**
+***Bold Italics***
 [[DevLogs]] (Links)
 
 - List1
