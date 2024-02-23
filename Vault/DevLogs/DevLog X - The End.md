@@ -1,5 +1,6 @@
 ---
 ctime:: 2075-05-14
+cssclass: clean-embeds
  | Prev
  | Next
 ---

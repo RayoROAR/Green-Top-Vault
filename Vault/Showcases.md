@@ -3,7 +3,7 @@
 ## Videos
 
 ```gallery
-path=media/showcases
+path=Vault/media/showcases
 imgWidth=200
 divWidth=100
 divAlign=left

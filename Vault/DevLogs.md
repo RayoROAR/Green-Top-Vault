@@ -8,7 +8,7 @@ This document will contain an ordered list of dev logs. These dev logs are frequ
 ```dataview
 TABLE
 ctime as Created
-FROM "DevLogs" and #JamBuild
+FROM "Vault/DevLogs" and #JamBuild
 SORT ctime ASC
 ```
 

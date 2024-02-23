@@ -29,3 +29,12 @@ code snippet
 ```
 
 ![[2024-01-21 13-19-19.mp4]]
+
+## File properties:
+
+```dataview
+TABLE WITHOUT ID
+    file
+WHERE
+    file.name = this.file.name
+```

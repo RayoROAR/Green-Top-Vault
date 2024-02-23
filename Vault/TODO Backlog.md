@@ -1,4 +1,7 @@
+# TODO Backlog
+
 *See also: [[TODO Checklist]]*
+
 Every note containing the TODO tag is listed below, ordered by its creation date:
 
 ```dataview
@@ -11,7 +14,7 @@ SORT file.ctime DESC
 
 ---
 
-# DONE
+## DONE
 
 Every note containing both the TODO tag and the DONE tag is listed below, ordered by its creation date:
 
