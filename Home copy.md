@@ -1,10 +1,8 @@
 ---
 cssclass: clean-embeds, no-margin-top-header
 ---
-![[reloadhome]]
+![[reloadhomecopy]]
 
 ![[Vault/partial-views/home|home]]
-
-
 
 

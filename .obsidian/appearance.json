@@ -5,8 +5,12 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "enabledCssSnippets": [
+    "wider-scrollbar",
     "clean-embeds",
+    "hide-properties",
+    "no-margin-top-header",
     "no-spacing",
-    "hide-properties"
+    "cleanest-embeds",
+    "clean-ish-embeds"
   ]
 }

@@ -2,7 +2,7 @@
 ctime:: 2024-01-15
 cssclass: clean-embeds
 ---
-
+![[backtodevlogs]]
 # DevLog 1 - Creation
 
 #JamBuild #v0_1 
@@ -21,7 +21,7 @@ Three days ago (12th of January), the [Pirate Software - Game Jam 14](https://it
 
 ## Commits
 
-#### Initial commit ![[Rayo signature]]
+#### Initial commit ![[rayo-signature]]
 ```
 (no description)
 ```

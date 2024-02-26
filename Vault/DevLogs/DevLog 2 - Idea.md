@@ -1,10 +1,8 @@
 ---
 ctime:: 2024-01-18
 cssclass: clean-embeds
- | Prev
- | Next
 ---
-
+![[backtodevlogs]]
 # DevLog 2 - Idea
 
 #JamBuild #v0_1 
@@ -37,7 +35,7 @@ Today, I've started working on this idea by playing around a bit with Godot, get
 
 ## Commits
 
-#### playing around ![[Rayo signature]]
+#### playing around ![[rayo-signature]]
 ```
 init
 ```

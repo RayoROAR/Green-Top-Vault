@@ -1,10 +1,8 @@
 ---
 ctime:: 2024-01-20
 cssclass: clean-embeds
- | Prev
- | Next
 ---
-
+![[backtodevlogs]]
 # DevLog 3 - Robot is born
 
 #JamBuild #v0_1 
@@ -15,7 +13,7 @@ cssclass: clean-embeds
 
 ## Commits
 
-#### bootsplash done ![[Rayo signature]]
+#### bootsplash done ![[rayo-signature]]
 ```
 trying to understand fade ins and outs to remove the 5ms flashbang before the main menu screen
 ```
@@ -27,7 +25,7 @@ trying to understand fade ins and outs to remove the 5ms flashbang before the ma
 
 ---
 
-#### player, tileset and game testing scene ![[Rayo signature]]
+#### player, tileset and game testing scene ![[rayo-signature]]
 ```
 and imported a physics addon (maybe for later)
 ```

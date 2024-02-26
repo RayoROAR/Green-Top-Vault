@@ -1,10 +1,8 @@
 ---
 ctime:: 2024-01-23
 cssclass: clean-embeds
- | Prev
- | Next
 ---
-
+![[backtodevlogs]]
 # DevLog 6 - It's spreading
 
 #JamBuild #v0_1 
@@ -15,7 +13,7 @@ cssclass: clean-embeds
 
 ## Commits 
 
-#### Watering and Burning logic done ![[Rayo signature]]
+#### Watering and Burning logic done ![[rayo-signature]]
 ```
 time for spreading ( ͡° ͜ʖ ͡°)
 ```
@@ -33,7 +31,7 @@ time for spreading ( ͡° ͜ʖ ͡°)
 
 ---
 
-#### IT'S SPREADING ![[Rayo signature]]
+#### IT'S SPREADING ![[rayo-signature]]
 ```
 FUCKING FINALLY
 ```

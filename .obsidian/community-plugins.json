@@ -3,5 +3,7 @@
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-gallery",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "homepage",
+  "templater-obsidian"
 ]

@@ -1,6 +1,10 @@
+---
+cssclass: clean-embeds
+---
+![[backtohome]]
 # TODO Backlog
 
-*See also: [[TODO Checklist]]*
+*See also: [[TODOChecklist]]*
 
 Every note containing the TODO tag is listed below, ordered by its creation date:
 
@@ -24,3 +28,8 @@ file.ctime as Created
 FROM #TODO and #DONE
 SORT file.ctime DESC
 ```
+
+
+---
+
+![[navbar]]

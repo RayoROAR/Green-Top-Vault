@@ -1,10 +1,8 @@
 ---
 ctime:: 2024-01-22
 cssclass: clean-embeds
- | Prev
- | Next
 ---
-
+![[backtodevlogs]]
 # DevLog 5 - Fire and Water
 
 #JamBuild #v0_1 
@@ -15,7 +13,7 @@ cssclass: clean-embeds
 
 ## Commits
 
-#### Budget pixel perfect, fire and water ![[Rayo signature]]
+#### Budget pixel perfect, fire and water ![[rayo-signature]]
 ```
 Applied a fast solution to the pixel perfect problem (reduced the viewport's size instead of applying a shader (faster both in terms of computing time and time spent thinking about it, win/win!)). Also made the robot shoot water and fire (water collisions are still buggy, idk what causes it)
 ```
@@ -31,7 +29,7 @@ Applied a fast solution to the pixel perfect problem (reduced the viewport's siz
 
 ---
 
-#### Water bug fixed, player speed affects initial velocity of particles a… ![[Rayo signature]]
+#### Water bug fixed, player speed affects initial velocity of particles a… ![[rayo-signature]]
 ```
 …nd fire shooting boost
 

@@ -1,24 +1,19 @@
 ---
-"ctime:": 2024-01-25
-cssclasses:
-  - clean-embeds
-  - "|"
-  - Prev
-  - "|"
-  - Next
+ctime:: 2024-01-25
+cssclass: clean-embeds
 ---
-
+![[backtodevlogs]]
 # DevLog 7 - To the wall
 
 #JamBuild #v0_1 
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 6 - It's spreading | Prev]] \] - \[ [[DevLog 8 - Ship it!| Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 6 - It's spreading | Prev]] \] - \[ [[DevLog 8 - JamBuild!| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
 ## Commits
 
-#### Advanced movement and climbing ![[Rayo signature]]
+#### Advanced movement and climbing ![[rayo-signature]]
 ```
 Also changed up the ingame scene a bit and added Level scene for the actual level
 ```
@@ -45,7 +40,7 @@ Also changed up the ingame scene a bit and added Level scene for the actual leve
 
 ---
 
-#### new tileset v0.6 ![[Rayo signature]]
+#### new tileset v0.6 ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -57,7 +52,7 @@ Also changed up the ingame scene a bit and added Level scene for the actual leve
 
 ---
 
-#### Starting out level ![[Nasty signature]]
+#### Starting out level ![[nasty-signature]]
 ```
 (no description)
 ```
@@ -70,6 +65,6 @@ Also changed up the ingame scene a bit and added Level scene for the actual leve
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 6 - It's spreading | Prev]] \] - \[ [[DevLog 8 - Ship it!| Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 6 - It's spreading | Prev]] \] - \[ [[DevLog 8 - JamBuild!| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ![[navbar]]

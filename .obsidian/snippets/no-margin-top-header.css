@@ -1,0 +1,5 @@
+.mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section :is(h3,h4,h5,h6) {
+    line-height: 1em !important;
+    margin:10px 2px 2px 2px !important;
+    padding: 2px 2px 2px 2px !important;
+}

@@ -1,9 +1,8 @@
 ---
 ctime:: 2075-05-14
 cssclass: clean-embeds
- | Prev
- | Next
 ---
+![[backtodevlogs]]
 
 # DevLog X - The End
 
@@ -21,6 +20,6 @@ Here's the first ever Green Top fanart as a filler:
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - X | Next]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - Crispy UI font| Next]] \]
 
 ![[navbar]]

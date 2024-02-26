@@ -1,10 +1,8 @@
 ---
 ctime:: 2024-01-21
 cssclass: clean-embeds
- | Prev
- | Next
 ---
-
+![[backtodevlogs]]
 # DevLog 4 - Pixel imperfect
 
 #JamBuild #v0_1 
@@ -15,7 +13,7 @@ cssclass: clean-embeds
 
 ## Commits
 
-#### Removed movement jitter, complete tileset WIP ![[Rayo signature]]
+#### Removed movement jitter, complete tileset WIP ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -27,7 +25,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Tried to implement pixel perfect shader ![[Rayo signature]]
+#### Tried to implement pixel perfect shader ![[rayo-signature]]
 ```
 Shader is still not finished, I want to make it texture space instead of screen space to apply it to individual sprites intead of EVERYTHING. It also fucks up the UI so it's a no-no.
 

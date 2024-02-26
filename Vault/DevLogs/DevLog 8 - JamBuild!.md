@@ -1,21 +1,19 @@
 ---
 ctime:: 2024-01-26
 cssclass: clean-embeds
- | Prev
- | Next
 ---
-
-# DevLog 8 - Ship it!
+![[backtodevlogs]]
+# DevLog 8 - JamBuild!
 
 #JamBuild #v0_1 
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - Crispy UI font| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
 ## Commits
 
-#### Spread fix, bug fixes, v0.7 tileset ![[Rayo signature]]
+#### Spread fix, bug fixes, v0.7 tileset ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -31,7 +29,7 @@ cssclass: clean-embeds
 
 ---
 
-#### More Level ![[Nasty signature]]
+#### More Level ![[nasty-signature]]
 ```
 (no description)
 ```
@@ -41,7 +39,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Menu polish ![[Rayo signature]]
+#### Menu polish ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -62,7 +60,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Level almost finished ![[Nasty signature]]
+#### Level almost finished ![[nasty-signature]]
 ```
 (no description)
 ```
@@ -72,7 +70,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Nivel Completo ![[Nasty signature]]
+#### Nivel Completo ![[nasty-signature]]
 ```
 (no description)
 ```
@@ -82,7 +80,7 @@ cssclass: clean-embeds
 
 ---
 
-#### JAM Build & some fixes added on top ![[Rayo signature]]
+#### JAM Build & some fixes added on top ![[rayo-signature]]
 *(This commit is actually from **2024-02-04**, I simply forgot to upload changes after the deadline)*
 ```
 (no description)
@@ -109,6 +107,6 @@ cssclass: clean-embeds
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - Crispy UI font| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ![[navbar]]

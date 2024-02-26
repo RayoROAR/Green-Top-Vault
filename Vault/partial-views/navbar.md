@@ -1,1 +1,1 @@
-Home - [DevLogs](DevLogs.md) - [Showcases](Showcases.md) - TODO - Other
+[[Home | Home]] - [[Changelogs | Changelogs]] - [[DevLogs | DevLogs]] - [[Showcases | Showcases]] - [[TODOChecklist | TODO]]

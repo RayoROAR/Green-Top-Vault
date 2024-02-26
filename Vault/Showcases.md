@@ -1,3 +1,7 @@
+---
+cssclass: clean-embeds
+---
+![[backtohome]]
 # Showcases
 
 ## Videos
@@ -21,3 +25,6 @@ file: ".mp4"
 ```
 
 
+---
+
+![[navbar]]

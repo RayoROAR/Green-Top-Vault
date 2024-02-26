@@ -4,43 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "356fcc4820a54792",
+        "id": "fc2f978d38818ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "505343217d2998bd",
+            "id": "403a194555ad99de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Theme testing.md",
+                "file": "Vault/DevLogs/DevLog 10 - Saved.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b3c1bde214ed6729",
+            "id": "40e2ec43f3ba6a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Vault/DevLogs/DevLog 10 - Saved.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "eff1e336c9a3c2bf",
+            "id": "81273db0f7b37ba1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vault/partial-views/home.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Vault/partial-views/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Vault/partial-views/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Vault/partial-views/home.md"
               }
             }
           }
@@ -171,35 +175,48 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-gallery:Gallery": false
+      "obsidian-gallery:Gallery": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b3c1bde214ed6729",
+  "active": "81273db0f7b37ba1",
   "lastOpenFiles": [
-    "Vault/TODO Checklist.md",
     "Home.md",
-    "Vault/DevLogs/DevLog 1 - Creation.md",
-    "Vault/media/title tall.png",
-    "Vault/partial-views/Recent Changes.md",
-    "Vault/TODO Backlog.md",
-    "Vault/Theme testing.md",
-    "Vault/Showcases.md",
     "Vault/DevLogs.md",
-    "Vault/Changelogs.md",
+    "Vault/DevLogs/DevLog 11 - The small things.md",
+    "Vault/DevLogs/DevLog 10 - Saved.md",
     "Vault/DevLogs/DevLog X - The End.md",
-    "Vault/DevLogs/DevLog 9 - X.md",
-    "Vault/DevLogs/DevLog 8 - Ship it!.md",
+    "Vault/Templates/devlog.md",
+    "Vault/DevLogs/DevLog 9 - Crispy UI font.md",
+    "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+    "Vault/Concepts canvas.canvas",
+    "Home copy.md",
+    "Vault/WhatsNewComplete.md",
+    "Vault/partial-views/home.md",
+    "Vault/partial-views/nasty-signature.md",
+    "Vault/media/Green Top concept sketch.jpg",
+    "Vault/media/first-fanart.png",
+    "Vault/media/title tall.png",
+    "Vault/media/Green Top world.png",
+    "Vault/media/screenshots",
+    "Vault/media/screenshots/titlescreen2_screenshot.png",
     "Vault/DevLogs/DevLog 7 - To the wall.md",
     "Vault/DevLogs/DevLog 6 - It's spreading.md",
     "Vault/DevLogs/DevLog 5 - Fire and Water.md",
     "Vault/DevLogs/DevLog 4 - Pixel imperfect.md",
     "Vault/DevLogs/DevLog 3 - Robot is born.md",
     "Vault/DevLogs/DevLog 2 - Idea.md",
-    "Vault/Changelogs/v0.1 - JAM Build.md",
-    "Vault/partial-views/navbar.md",
+    "Vault/DevLogs/DevLog 1 - Creation.md",
+    "Vault/Templates/copy-title.md",
+    "Vault/Templates",
+    "Vault/Showcases.md",
+    "Vault/partial-views/reloadhome.md",
+    "Vault/partial-views/reloadhomecopy.md",
+    "Vault/Theme testing 1.md",
+    "Vault/TODOChecklist.md",
     "Vault",
     "Vault/partial-views",
     "Green-Top-Vault",
@@ -211,16 +228,7 @@
     "Vault/media/assets/clouds/cloud1.png",
     "media/assets/clouds/cloud1.png.crdownload",
     "Vault/media/assets/clouds",
-    "media/assets/icon/icon.png.crdownload",
     "Vault/media/assets/tileset/decals.png",
-    "media/assets/tileset/decals.png.crdownload",
-    "Vault/media/assets/icon/icon.png",
-    "Vault/media/assets/flower/flower.png",
-    "Vault/media/assets/flower/burned_flower.png",
-    "Vault/media/titlescreen_screenshot.png",
-    "media/assets/Nueva carpeta/cloud3.png",
-    "Vault/partial-views/Nasty signature.md",
-    "Vault/partial-views/Rayo signature.md",
-    "Welcome.md"
+    "Vault/media/assets/icon/icon.png"
   ]
 }
