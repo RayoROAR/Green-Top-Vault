@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2f978d38818ca9",
+        "id": "fa992c91c505335c",
         "type": "tabs",
         "children": [
           {
-            "id": "403a194555ad99de",
+            "id": "c89f117560a2c26a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/DevLogs/DevLog 10 - Saved.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40e2ec43f3ba6a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/DevLogs/DevLog 10 - Saved.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "81273db0f7b37ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/partial-views/home.md",
+                "file": "Vault/DevLogs.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/partial-views/home.md",
+                "file": "Vault/DevLogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/partial-views/home.md",
+                "file": "Vault/DevLogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/partial-views/home.md"
+                "file": "Vault/DevLogs.md"
               }
             }
           }
@@ -182,27 +157,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81273db0f7b37ba1",
+  "active": "c89f117560a2c26a",
   "lastOpenFiles": [
-    "Home.md",
-    "Vault/DevLogs.md",
+    "Vault/DevLogs/DevLog 15 - Mouse no more.md",
+    "Vault/DevLogs/DevLog X - The End.md",
+    "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
+    "Vault/Changelogs/v0.1 - JAM Build.md",
+    "Vault/DevLogs/DevLog 13 - What am I pressing.md",
+    "Vault/media/screenshots/discord/buffer-boost-2.png",
+    "Vault/media/screenshots/discord/buffer-boost-1.png",
+    "Vault/media/screenshots/discord",
+    "Vault/media/screenshots/Nueva carpeta",
+    "Vault/DevLogs/DevLog 12 - Grassier grass.md",
+    "Vault/media/screenshots/action-labels_screenshot.png",
+    "Vault/media/assets/tileset/tileset (4).png",
+    "Vault/media/assets/tileset/tileset (4).png.crdownload",
+    "Vault/media/assets/robot/robot.png",
+    "Vault/media/assets/robot/robot.png.crdownload",
+    "Vault/media/screenshots/grassier-grass_screenshot.png",
     "Vault/DevLogs/DevLog 11 - The small things.md",
     "Vault/DevLogs/DevLog 10 - Saved.md",
-    "Vault/DevLogs/DevLog X - The End.md",
-    "Vault/Templates/devlog.md",
     "Vault/DevLogs/DevLog 9 - Crispy UI font.md",
     "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+    "Vault/Templates/devlog.md",
+    "Vault/WhatsNewComplete.md",
+    "Home.md",
+    "Vault/partial-views/home.md",
+    "Vault/DevLogs.md",
     "Vault/Concepts canvas.canvas",
     "Home copy.md",
-    "Vault/WhatsNewComplete.md",
-    "Vault/partial-views/home.md",
     "Vault/partial-views/nasty-signature.md",
     "Vault/media/Green Top concept sketch.jpg",
     "Vault/media/first-fanart.png",
     "Vault/media/title tall.png",
     "Vault/media/Green Top world.png",
     "Vault/media/screenshots",
-    "Vault/media/screenshots/titlescreen2_screenshot.png",
     "Vault/DevLogs/DevLog 7 - To the wall.md",
     "Vault/DevLogs/DevLog 6 - It's spreading.md",
     "Vault/DevLogs/DevLog 5 - Fire and Water.md",
@@ -213,22 +202,9 @@
     "Vault/Templates/copy-title.md",
     "Vault/Templates",
     "Vault/Showcases.md",
-    "Vault/partial-views/reloadhome.md",
-    "Vault/partial-views/reloadhomecopy.md",
-    "Vault/Theme testing 1.md",
-    "Vault/TODOChecklist.md",
     "Vault",
     "Vault/partial-views",
     "Green-Top-Vault",
-    "media/assets/JamSmall.png.crdownload",
-    "Vault/media/assets/clouds/cloud3.png",
-    "media/assets/clouds/cloud3.png.crdownload",
-    "Vault/media/assets/clouds/cloud2.png",
-    "media/assets/clouds/cloud2.png.crdownload",
-    "Vault/media/assets/clouds/cloud1.png",
-    "media/assets/clouds/cloud1.png.crdownload",
-    "Vault/media/assets/clouds",
-    "Vault/media/assets/tileset/decals.png",
-    "Vault/media/assets/icon/icon.png"
+    "media/assets/JamSmall.png.crdownload"
   ]
 }

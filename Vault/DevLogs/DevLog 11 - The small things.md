@@ -7,13 +7,13 @@ cssclass: clean-embeds
 
 #PreAlphaBuild #v0_2
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 10 - Saved| Prev]] \] - \[ [[DevLog 12 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 10 - Saved| Prev]] \] - \[ [[DevLog 12 - Grassier grass| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
 ## Commits
 
-#### Fixed spreading bug and fully functional save/load
+#### Fixed spreading bug and fully functional save/load ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -23,7 +23,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Dynamic clouds & minicursor
+#### Dynamic clouds & minicursor ![[rayo-signature]]
 ```
 - Made dynamically changing despawn_x for clouds (depending on window aspect ratio)
 - Added minicursor
@@ -37,7 +37,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Readded Persist and minicursor to Level
+#### Readded Persist and minicursor to Level ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -47,6 +47,6 @@ cssclass: clean-embeds
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 10 - Saved| Prev]] \] - \[ [[DevLog 12 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 10 - Saved| Prev]] \] - \[ [[DevLog 12 - Grassier grass| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ![[navbar]]

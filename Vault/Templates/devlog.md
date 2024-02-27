@@ -13,7 +13,7 @@ cssclass: clean-embeds
 
 ## Commits
 
-#### Commit1
+#### Commit1 ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -25,7 +25,7 @@ cssclass: clean-embeds
 
 ---
 
-#### Commit2
+#### Commit2 ![[nasty-signature]]
 ```
 (no description)
 ```

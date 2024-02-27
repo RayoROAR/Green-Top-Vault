@@ -34,8 +34,8 @@ If you haven't already, I strongly advise you to install Obsidian and open this 
 > ⚙️ [[Changelogs]]
 > 💡 [[DevLogs]]
 > 🎥 [[Showcases]]
-> 📜 [[TODOChecklist]]
-> 🖼️ [[Concepts canvas.canvas|Concepts canvas]]
+> 📜 [[TODOChecklist | TODO]]
+> 🖼️ [[Concepts canvas.canvas|Concepts Canvas]]
 
 --- end-multi-column
 

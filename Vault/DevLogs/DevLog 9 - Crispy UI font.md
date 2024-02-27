@@ -13,7 +13,7 @@ cssclass: clean-embeds
 
 ## Commits
 
-#### Fixed UI
+#### Fixed UI ![[rayo-signature]]
 ```
 Also, new resolution of 480x270
 ```
@@ -29,7 +29,7 @@ Also, new resolution of 480x270
 
 ---
 
-#### Minor scale tweaks to UI overlays
+#### Minor scale tweaks to UI overlays ![[rayo-signature]]
 ```
 (no description)
 ```
@@ -39,7 +39,7 @@ Also, new resolution of 480x270
 
 ---
 
-#### changed repo to private
+#### changed repo to private ![[rayo-signature]]
 ```
 wanna see if webhook still works
 ```
@@ -49,7 +49,7 @@ wanna see if webhook still works
 
 ---
 
-#### Some fixes
+#### Some fixes ![[rayo-signature]]
 ```
 - Fixed doubled pixel cam glitch
 - Added a better ending credits scene
