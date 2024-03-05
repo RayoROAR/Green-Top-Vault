@@ -1,18 +1,18 @@
 ---
-cssclass: clean-embeds
+cssclass: clean-embeds, full-width
 ---
 ![[backtohome]]
 # TODO Checklist
 
 *See also: [[TODOBacklog]]*
 
-Every note containing a task list with the TODO tag is listed below, ordered by the note it's from and its creation date:
+Every note containing a task list with the TODO tag is listed below, ordered by its **priority level (⚠️)** and its **creation date**:
 
 ```dataview
-TABLE
-file.ctime as Created
-FROM #TODO and !#DONE
-SORT file.ctime DESC
+TASK
+FROM #TODO AND "Vault/DevLogs" OR "Vault/DailyLogs"
+WHERE checked = false
+SORT ⚠️ DESC, file.ctime ASC
 ```
 
 
@@ -20,13 +20,13 @@ SORT file.ctime DESC
 
 ## DONE
 
-Every note containing a **COMPLETED** task list with the TODO tag is listed below, ordered by the note it's from and its creation date:
+Every note containing a **COMPLETED** task list with the TODO tag is listed below, ordered by its **creation date** and its **priority level (⚠️)**:
 
 ```dataview
-TABLE
-file.ctime as Created
-FROM #TODO and #DONE
-SORT file.ctime DESC
+TASK
+FROM #TODO AND "Vault/DevLogs" OR "Vault/DailyLogs"
+WHERE checked = true
+SORT file.ctime ASC, ⚠️ DESC
 ```
 
 

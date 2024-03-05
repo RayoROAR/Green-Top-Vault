@@ -11,6 +11,9 @@
     "no-margin-top-header",
     "no-spacing",
     "cleanest-embeds",
-    "clean-ish-embeds"
+    "clean-ish-embeds",
+    "no-crossout-tasklist",
+    "full-width",
+    "no-spacing-ul"
   ]
 }

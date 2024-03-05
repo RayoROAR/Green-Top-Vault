@@ -19,8 +19,8 @@
       "template": "Vault/Templates/devlog.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Vault/DailyLogs",
+      "template": "Vault/Templates/dailylog.md"
     }
   ],
   "syntax_highlighting": true,

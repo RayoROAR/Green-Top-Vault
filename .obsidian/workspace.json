@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fa992c91c505335c",
+        "id": "068b79418e6ac5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c89f117560a2c26a",
+            "id": "14ed7d5963cb55db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/DevLogs.md",
+                "file": "Vault/DailyLogs/2024-03-04.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "d793a32d8ec94f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/DailyLogs/2024-03-05.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/DevLogs.md",
+                "file": "Vault/DailyLogs/2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/DevLogs.md",
+                "file": "Vault/DailyLogs/2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/DevLogs.md"
+                "file": "Vault/DailyLogs/2024-03-05.md"
               }
             }
           }
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,57 +168,59 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-gallery:Gallery": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "templated-daily-notes:Add new daily note": false
     }
   },
-  "active": "c89f117560a2c26a",
+  "active": "d793a32d8ec94f16",
   "lastOpenFiles": [
+    "Vault/DailyLogs/2024-03-04.md",
+    "Vault/DailyLogs/2024-03-05.md",
+    "Vault/Templates/dailylog.md",
+    "Vault/DailyLogs/2024-03-06.md",
+    "Vault/TODOChecklist.md",
+    "Vault/DailyLogs/2024-03-03.md",
+    "Vault/Constants.md",
+    "Home.md",
     "Vault/DevLogs/DevLog 15 - Mouse no more.md",
-    "Vault/DevLogs/DevLog X - The End.md",
-    "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
+    "Vault/DevLogs/DevLog 16 - X.md",
+    "Vault/Concepts canvas.canvas",
+    "Vault/Fanart.canvas",
+    "Vault/WhatsNewComplete.md",
     "Vault/Changelogs/v0.1 - JAM Build.md",
+    "Vault/Changelogs/v0.2 - Prototype Build.md",
+    "Vault/Changelogs.md",
+    "Vault/DevLogs.md",
+    "Vault/TODOBacklog.md",
+    "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
     "Vault/DevLogs/DevLog 13 - What am I pressing.md",
+    "Vault/DevLogs/DevLog 12 - Grassier grass.md",
+    "Vault/DevLogs/DevLog 11 - The small things.md",
+    "Vault/DevLogs/DevLog 3 - Robot is born.md",
+    "Vault/DevLogs/DevLog 1 - Creation.md",
+    "Vault/Theme testing.md",
+    "Vault/Showcases.md",
+    "Vault/DailyLogs/DailyLog 2024-03-03.md",
+    "Vault/DailyLogs/DailyLog 2024-03-03 1.md",
+    "Vault/DailyLogs",
+    "Vault/media/fanart/arthur-fanart.jpg",
+    "Vault/media/fanart/arthur-fanart.jpg.crdownload",
+    "Vault/media/fanart",
+    "Vault/media/Nueva carpeta",
     "Vault/media/screenshots/discord/buffer-boost-2.png",
     "Vault/media/screenshots/discord/buffer-boost-1.png",
     "Vault/media/screenshots/discord",
     "Vault/media/screenshots/Nueva carpeta",
-    "Vault/DevLogs/DevLog 12 - Grassier grass.md",
     "Vault/media/screenshots/action-labels_screenshot.png",
     "Vault/media/assets/tileset/tileset (4).png",
     "Vault/media/assets/tileset/tileset (4).png.crdownload",
     "Vault/media/assets/robot/robot.png",
     "Vault/media/assets/robot/robot.png.crdownload",
     "Vault/media/screenshots/grassier-grass_screenshot.png",
-    "Vault/DevLogs/DevLog 11 - The small things.md",
-    "Vault/DevLogs/DevLog 10 - Saved.md",
-    "Vault/DevLogs/DevLog 9 - Crispy UI font.md",
-    "Vault/DevLogs/DevLog 8 - JamBuild!.md",
-    "Vault/Templates/devlog.md",
-    "Vault/WhatsNewComplete.md",
-    "Home.md",
-    "Vault/partial-views/home.md",
-    "Vault/DevLogs.md",
-    "Vault/Concepts canvas.canvas",
-    "Home copy.md",
-    "Vault/partial-views/nasty-signature.md",
     "Vault/media/Green Top concept sketch.jpg",
-    "Vault/media/first-fanart.png",
+    "Vault/media/fanart/athsmaticrat-fanart.png",
     "Vault/media/title tall.png",
-    "Vault/media/Green Top world.png",
     "Vault/media/screenshots",
-    "Vault/DevLogs/DevLog 7 - To the wall.md",
-    "Vault/DevLogs/DevLog 6 - It's spreading.md",
-    "Vault/DevLogs/DevLog 5 - Fire and Water.md",
-    "Vault/DevLogs/DevLog 4 - Pixel imperfect.md",
-    "Vault/DevLogs/DevLog 3 - Robot is born.md",
-    "Vault/DevLogs/DevLog 2 - Idea.md",
-    "Vault/DevLogs/DevLog 1 - Creation.md",
-    "Vault/Templates/copy-title.md",
-    "Vault/Templates",
-    "Vault/Showcases.md",
-    "Vault",
-    "Vault/partial-views",
-    "Green-Top-Vault",
-    "media/assets/JamSmall.png.crdownload"
+    "Vault/Templates"
   ]
 }

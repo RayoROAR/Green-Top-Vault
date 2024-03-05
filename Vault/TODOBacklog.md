@@ -12,7 +12,7 @@ Every note containing the TODO tag is listed below, ordered by its creation date
 TABLE
 file.ctime as Created
 FROM #TODO and !#DONE
-SORT file.ctime DESC
+SORT file.ctime ASC
 ```
 
 
@@ -26,7 +26,7 @@ Every note containing both the TODO tag and the DONE tag is listed below, ordere
 TABLE
 file.ctime as Created
 FROM #TODO and #DONE
-SORT file.ctime DESC
+SORT file.ctime ASC
 ```
 
 

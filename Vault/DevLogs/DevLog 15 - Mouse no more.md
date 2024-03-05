@@ -24,7 +24,7 @@ cssclass: clean-embeds
  - Joystick cursor is limited to game window's bounds.
  - Jump is both (X) and (L3) for a more comfortable platforming experience (right thumb is already using RStick to aim the arms, it can't press X).
 ```
-[See GitHub commit](https://github.com/RayoROAR/GreenTop/commit/94fccd101820f5f4981c42513b5e8553e10253a6)
+[See GitHub commit](https://github.com/RayoROAR/GreenTop/commit/34993e9a888108e2884405f99c7b958e7f3b3c4a)
 
 - Fixed a bug where players would try to shoot when their mouse was 1px outside the game window and it wouldn't register the click. Now the mouse is confined to the game window but can easily escape it only while the game is paused
 - Game automatically pauses when the game window loses focus (Alt+TABbing or other).

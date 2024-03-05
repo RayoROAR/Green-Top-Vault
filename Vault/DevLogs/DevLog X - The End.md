@@ -13,7 +13,7 @@ This isn't an actual DevLog, it's just a placeholder page for all of the other D
 
 Here's the first ever Green Top fanart as a filler:
 
-![[first-fanart.png]]
+![[athsmaticrat-fanart.png]]
 
 [And here's the link to the message](https://discord.com/channels/994364015738359808/994369887491346452/1202669231867433001)
 

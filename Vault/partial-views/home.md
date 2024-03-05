@@ -18,7 +18,9 @@ Column Spacing: 10px
 > 🚀 [Speedrun Leaderboard](https://www.speedrun.com/Green_Top)
 > 🎮 [Discord Server](https://discord.gg/nZxkwavJS4)
 > 🤓 [Dev YouTube Channel](https://www.youtube.com/@roarrayo)
+> 🐦 [Dev Twitter]()
 > 💾 [Github Game Repository](https://github.com/RayoROAR/GreenTop)
+> 📓 [Github Vault Repository](https://github.com/RayoROAR/Green-Top-Vault)
 
 --- end-column ---
 
@@ -35,7 +37,8 @@ If you haven't already, I strongly advise you to install Obsidian and open this 
 > 💡 [[DevLogs]]
 > 🎥 [[Showcases]]
 > 📜 [[TODOChecklist | TODO]]
-> 🖼️ [[Concepts canvas.canvas|Concepts Canvas]]
+> 🖼️ [[Concepts canvas.canvas | Concepts Canvas]]
+> 🎨 [[Fanart.canvas | Fanart Corner]]
 
 --- end-multi-column
 

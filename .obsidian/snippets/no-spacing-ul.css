@@ -1,0 +1,5 @@
+.markdown-preview-view.no-spacing-ul ul{
+    --p-spacing: 0rem; 
+    --heading-spacing: 0rem;
+    margin-block-start: -15px;
+}

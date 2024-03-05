@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"929770737aef9c79","x":-360,"y":-120,"width":400,"height":280,"type":"file","file":"Vault/media/fanart/athsmaticrat-fanart.png"},
+		{"id":"cc74515af36be317","x":140,"y":-92,"width":400,"height":225,"type":"file","file":"Vault/media/fanart/arthur-fanart.jpg"}
+	],
+	"edges":[]
+}

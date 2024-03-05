@@ -1,0 +1,11 @@
+{
+  "ribbons": [
+    {
+      "id": "1709479151565",
+      "icon": "album",
+      "hint": "DailyLog",
+      "template": "Vault/Templates/dailylog.md",
+      "folder": "Vault/DailyLogs"
+    }
+  ]
+}

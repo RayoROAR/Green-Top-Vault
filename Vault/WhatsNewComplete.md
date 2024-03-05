@@ -1,3 +1,7 @@
+---
+cssclass: clean-embeds
+---
+
 ## What's new?
 
 --- start-multi-column: WhatsNew
