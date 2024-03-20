@@ -105,6 +105,10 @@ cssclass: clean-embeds
 ![[flower.png]] ![[burned_flower.png]] ![[icon.png]]
 ![[decals.png]]
 
+<p style="text-align: center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xJG1Px4d4KU?si=5O0PxxGneAkX7j9q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 ---
 
 \[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 7 - To the wall| Prev]] \] - \[ [[DevLog 9 - Crispy UI font| Next]] \] - \[ [[DevLog X - The End | Last]] \]

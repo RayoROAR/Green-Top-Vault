@@ -5,15 +5,19 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "wider-scrollbar",
+    "cleanest-embeds",
     "clean-embeds",
+    "clean-ish-embeds",
     "hide-properties",
+    "full-width",
+    "no-crossout-tasklist",
     "no-margin-top-header",
     "no-spacing",
-    "cleanest-embeds",
-    "clean-ish-embeds",
-    "no-crossout-tasklist",
-    "full-width",
-    "no-spacing-ul"
-  ]
+    "no-spacing-ul",
+    "wider-scrollbar"
+  ],
+  "baseFontSize": 16,
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

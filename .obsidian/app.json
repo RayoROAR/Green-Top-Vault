@@ -6,6 +6,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "media",
   "userIgnoreFilters": [
-    "partial-views/"
+    "Vault/Templates/",
+    "Vault/partial-views/"
   ]
 }

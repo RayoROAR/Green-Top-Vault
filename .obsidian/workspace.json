@@ -8,31 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14ed7d5963cb55db",
+            "id": "d7d9f59820735978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/DailyLogs/2024-03-04.md",
+                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "d793a32d8ec94f16",
+            "id": "6e7605a748b9d475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/DailyLogs/2024-03-05.md",
+                "file": "Vault/TODOChecklist.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8eb6124282975e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Reminders.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "4ed2e9aa1c008008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/DevLogs/DevLog 17 - X.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "231f4264ef7783b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d191a0a881e0d3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/EmojiGuide.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "12bb83b3ae21dc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Constants.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "04f4682e0aa64e6c",
@@ -106,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/DailyLogs/2024-03-05.md",
+                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/DailyLogs/2024-03-05.md",
+                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +205,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/DailyLogs/2024-03-05.md"
+                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,55 +230,93 @@
       "templated-daily-notes:Add new daily note": false
     }
   },
-  "active": "d793a32d8ec94f16",
+  "floating": {
+    "id": "e36fd75ee3918d37",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0a71668bb7870d9c",
+        "type": "window",
+        "children": [
+          {
+            "id": "ac3454faf5863429",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e886423795c3237f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/DailyLogs/2024-03-20.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 438,
+        "y": 24,
+        "width": 687,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d7d9f59820735978",
   "lastOpenFiles": [
-    "Vault/DailyLogs/2024-03-04.md",
-    "Vault/DailyLogs/2024-03-05.md",
-    "Vault/Templates/dailylog.md",
-    "Vault/DailyLogs/2024-03-06.md",
-    "Vault/TODOChecklist.md",
-    "Vault/DailyLogs/2024-03-03.md",
-    "Vault/Constants.md",
-    "Home.md",
-    "Vault/DevLogs/DevLog 15 - Mouse no more.md",
-    "Vault/DevLogs/DevLog 16 - X.md",
-    "Vault/Concepts canvas.canvas",
-    "Vault/Fanart.canvas",
-    "Vault/WhatsNewComplete.md",
-    "Vault/Changelogs/v0.1 - JAM Build.md",
-    "Vault/Changelogs/v0.2 - Prototype Build.md",
-    "Vault/Changelogs.md",
-    "Vault/DevLogs.md",
-    "Vault/TODOBacklog.md",
     "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
-    "Vault/DevLogs/DevLog 13 - What am I pressing.md",
-    "Vault/DevLogs/DevLog 12 - Grassier grass.md",
-    "Vault/DevLogs/DevLog 11 - The small things.md",
-    "Vault/DevLogs/DevLog 3 - Robot is born.md",
-    "Vault/DevLogs/DevLog 1 - Creation.md",
-    "Vault/Theme testing.md",
+    "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+    "Vault/media/showcases/2024-02-16.mp4",
+    "Vault/DevLogs/DevLog 16 - FL0-W3R T0-W3R.md",
+    "Vault/DailyLogs/2024-03-20.md",
+    "Vault/DailyLogs/2024-03-19.md",
+    "Vault/DailyLogs/2024-03-10.md",
+    "Vault/DailyLogs/2024-03-16.md",
+    "Vault/TODOChecklist.md",
+    "Vault/EmojiGuide.md",
+    "Vault/Constants.md",
+    "Vault/DailyLogs/2024-03-06.md",
+    "Vault/DevLogs/DevLog 17 - X.md",
+    "Vault/DailyLogs/2024-03-08.md",
+    "Vault/DailyLogs/2024-03-11.md",
+    "Vault/DailyLogs/2024-03-12.md",
+    "Vault/DailyLogs/2024-03-13.md",
+    "Vault/DailyLogs/2024-03-15.md",
+    "Vault/media/assets/tileset/tileset (5).png",
+    "Vault/media/assets/tileset/tileset (5).png.crdownload",
+    "Vault/media/assets/tileset/alphabet_tileset.png",
+    "Vault/media/assets/tileset/alphabet_tileset.png.crdownload",
+    "Vault/CollisionsCanvas.canvas",
+    "Vault/DevLogs/DevLog 15 - Mouse no more.md",
+    "Vault/DevLogs/DevLog 18 - X.md",
+    "Home.md",
     "Vault/Showcases.md",
-    "Vault/DailyLogs/DailyLog 2024-03-03.md",
-    "Vault/DailyLogs/DailyLog 2024-03-03 1.md",
-    "Vault/DailyLogs",
+    "Vault/DailyLogs/2024-03-03.md",
+    "Vault/DailyLogs/2024-03-04.md",
+    "Vault/Concepts canvas.canvas",
+    "Vault/Changelogs.md",
+    "Vault/CollisionsCanvas.md",
+    "Vault/media/showcases/2024-01-26 17-34-48.mp4",
+    "Vault/media/showcases/2024-03-11 17-34-48.mp4",
+    "Vault/media/showcases/2024-03-06 17-18-24.mp4",
+    "Vault/media/showcases/2024-02-21 17-25-44.mp4",
+    "Vault/media/showcases/2024-03-11 17-25-44.mp4",
+    "Vault/media/showcases/2024-03-11 17-18-24.mp4",
+    "Vault/media/screenshots/ingamescene_clouds_screenshot.png",
+    "Vault/media/assets/cursor/cursor_coldfire.png",
+    "Vault/media/assets/cursor/cursor_coldfire.png.crdownload",
+    "Vault/media/assets/cursor/cursor_water.png",
+    "Vault/media/assets/cursor/cursor_fire.png",
+    "Untitled.canvas",
+    "Vault/media/screenshots/flower_tower_screenshot2.png",
+    "Vault/media/screenshots/flower_tower_screenshot1.png",
+    "Vault/Fanart.canvas",
     "Vault/media/fanart/arthur-fanart.jpg",
-    "Vault/media/fanart/arthur-fanart.jpg.crdownload",
-    "Vault/media/fanart",
-    "Vault/media/Nueva carpeta",
-    "Vault/media/screenshots/discord/buffer-boost-2.png",
-    "Vault/media/screenshots/discord/buffer-boost-1.png",
-    "Vault/media/screenshots/discord",
-    "Vault/media/screenshots/Nueva carpeta",
-    "Vault/media/screenshots/action-labels_screenshot.png",
-    "Vault/media/assets/tileset/tileset (4).png",
-    "Vault/media/assets/tileset/tileset (4).png.crdownload",
-    "Vault/media/assets/robot/robot.png",
-    "Vault/media/assets/robot/robot.png.crdownload",
-    "Vault/media/screenshots/grassier-grass_screenshot.png",
-    "Vault/media/Green Top concept sketch.jpg",
-    "Vault/media/fanart/athsmaticrat-fanart.png",
-    "Vault/media/title tall.png",
-    "Vault/media/screenshots",
-    "Vault/Templates"
+    "Vault/media/screenshots/discord/buffer-boost-2.png"
   ]
 }

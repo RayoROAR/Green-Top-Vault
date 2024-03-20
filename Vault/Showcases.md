@@ -1,5 +1,5 @@
 ---
-cssclass: clean-embeds
+cssclass: clean-embeds, full-width
 ---
 ![[backtohome]]
 # Showcases
@@ -8,7 +8,7 @@ cssclass: clean-embeds
 
 ```gallery
 path=Vault/media/showcases
-imgWidth=200
+imgWidth=300
 divWidth=100
 divAlign=left
 reverseOrder=true

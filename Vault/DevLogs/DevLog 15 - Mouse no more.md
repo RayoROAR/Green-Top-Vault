@@ -7,7 +7,7 @@ cssclass: clean-embeds
 
 #PreAlphaBuild #v0_2
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 14 - Controlling chaos | Prev]] \] - \[ [[DevLog 16 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 14 - Controlling chaos | Prev]] \] - \[ [[DevLog 16 - FL0-W3R T0-W3R| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
@@ -35,10 +35,10 @@ cssclass: clean-embeds
 	- Joystick cursor is limited to game window's bounds.
 	- Jump is both (X) and (L3) for a more comfortable platforming experience (right thumb is already using RStick to aim the arms, it can't press X).
 
-#TODO *: Add a gif showcasing the aim modes*
+![[2024-02-21 17-25-44.mp4]]
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 14 - Controlling chaos | Prev]] \] - \[ [[DevLog 16 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 14 - Controlling chaos | Prev]] \] - \[ [[DevLog 16 - FL0-W3R T0-W3R| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ![[navbar]]

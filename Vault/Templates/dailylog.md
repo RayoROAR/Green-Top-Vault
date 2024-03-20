@@ -2,16 +2,18 @@
 ctime:: <% tp.date.now("YYYY-MM-DD") %>
 cssclass: clean-embeds
 ---
-![[backtohome]]
+![[backtoTODOchecklist]]
 # DailyLog <% tp.date.now("YYYY-MM-DD") %>
 
 #DailyLog
 
-\[ [[Vault/DailyLogs/2024-03-03 | First]] \] - \[ [[Vault/DailyLogs/<% tp.date.yesterday("YYYY-MM-DD") %> | Prev]] \] - \[ [[Vault/DailyLogs/<% tp.date.tomorrow("YYYY-MM-DD") %> | Next]] \] - \[ [[Vault/DailyLogs/<% tp.date.now("YYYY-MM-DD") %> | Last]] \]
+\[ [[Vault/DailyLogs/2024-03-03 | First]] \] - \[ [[Vault/DailyLogs/<% tp.date.yesterday("YYYY-MM-DD") %> | Prev]] \] - \[ [[Vault/DailyLogs/<% tp.date.tomorrow("YYYY-MM-DD") %> | Next]] \] - \[ `="[[Vault/DailyLogs/" + dateformat(date(today), "yyyy-MM-dd") + "| Last]]"` \]
 
 ---
 
 ## Comments
+
+#### X.0
 
 Something
 
@@ -36,6 +38,9 @@ SORT file.ctime DESC
 
 ---
 
-\[ [[Vault/DailyLogs/2024-03-03 | First]] \] - \[ [[Vault/DailyLogs/<% tp.date.yesterday("YYYY-MM-DD") %> | Prev]] \] - \[ [[Vault/DailyLogs/<% tp.date.tomorrow("YYYY-MM-DD") %> | Next]] \] - \[ [[Vault/DailyLogs/<% tp.date.now("YYYY-MM-DD") %> | Last]] \]
+\[ [[Vault/DailyLogs/2024-03-03 | First]] \] - \[ [[Vault/DailyLogs/<% tp.date.yesterday("YYYY-MM-DD") %> | Prev]] \] - \[ [[Vault/DailyLogs/<% tp.date.tomorrow("YYYY-MM-DD") %> | Next]] \] - \[ `="[[Vault/DailyLogs/" + dateformat(date(today), "yyyy-MM-dd") + "| Last]]"` \]
 
 ![[navbar]]
+
+
+

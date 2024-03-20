@@ -29,10 +29,12 @@ And also updated the testing scene with some lines displaying the height of a no
 ```
 [See GitHub commit](https://github.com/RayoROAR/GreenTop/commit/02c1e6d948a699be3cb737160c29b9d9298814b3)
 
-- Low hops and buffer boosting was a bug that occurred due to the buffered being triggered twice. Found the source of the bug, fixed it, and then added buffer boosting again intentionally while making it consistent. Decided to keep the chaotic nature of the current momentum code to make low hops and, in turn, hyper buffer boosting still possible.
+- Low hops and buffer boosting was a bug that occurred due to the buffered jump being triggered twice. Found the source of the bug, fixed it, and then added buffer boosting again intentionally while making it consistent. Decided to keep the chaotic nature of the current momentum code to make low hops and, in turn, hyper buffer boosting still possible.
 - Tweaked IngameScene with height indicators for the normal jump, buffer boost and hyper buffer boost
 
-#TODO *: Add a video showcasing new movement tech*
+<p style="text-align: center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/7vKatZtarLg?si=8-pDHw0PaWVklREH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 ---
 

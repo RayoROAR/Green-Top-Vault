@@ -33,7 +33,7 @@ cssclass: clean-embeds
 - Made dynamically changing despawn_x for clouds (depending on window aspect ratio)
 - Added minicursor as guide between the regular cursor and the player (this is one of a few preparations before adding controller support)
 - Added Coldfire Arm but still did nothing with it 
-- Tried to add dynamic scaling to cursor but it's not supported (might try to do it somehow anyway? #TODO)
+- Tried to add dynamic scaling to cursor but it's not supported (might try to do it somehow anyway? #TODO #DONE)
 
 ---
 

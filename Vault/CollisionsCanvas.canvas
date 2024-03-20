@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5aa50035dc63a201","type":"text","text":"**GhostParticles:**\n- Layer: 15\n- Mask: 2, 3\n\n","x":-80,"y":-180,"width":216,"height":128},
+		{"id":"4dd4f9b2c445c853","type":"text","text":"**Payer:**\n- Layer: 1\n- Mask: 1\n\n","x":-369,"y":-176,"width":170,"height":120},
+		{"id":"78cfae64f63e085b","type":"text","text":"**TileMap (decorations):**\n- Layer: 3\n- Mask: 3","x":-102,"y":76,"width":261,"height":130},
+		{"id":"a8c2d81e3c6e1a28","type":"text","text":"**TileMap (solids):**\n- Layer: 1, 2\n- Mask: 1, 2\n","x":-378,"y":76,"width":188,"height":122}
+	],
+	"edges":[
+		{"id":"840d67a8955924f9","fromNode":"4dd4f9b2c445c853","fromSide":"bottom","toNode":"a8c2d81e3c6e1a28","toSide":"top","fromEnd":"arrow"},
+		{"id":"f84c85a44600f2b2","fromNode":"5aa50035dc63a201","fromSide":"bottom","toNode":"78cfae64f63e085b","toSide":"top"},
+		{"id":"115fc4bee8fed5c6","fromNode":"5aa50035dc63a201","fromSide":"left","toNode":"a8c2d81e3c6e1a28","toSide":"right"}
+	]
+}
