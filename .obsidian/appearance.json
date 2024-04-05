@@ -17,7 +17,7 @@
     "wider-scrollbar"
   ],
   "baseFontSize": 16,
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "Consolas,Segoe UI Emoji",
   "textFontFamily": "",
   "interfaceFontFamily": ""
 }

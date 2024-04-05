@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7d9f59820735978",
+            "id": "8ed94d6da8996426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+                "file": "Vault/TODOChecklist.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6e7605a748b9d475",
+            "id": "9bc4e3f9456a8a7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/TODOChecklist.md",
+                "file": "Vault/DailyLogs/2024-04-05.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4ed2e9aa1c008008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
                 "mode": "preview",
                 "source": true
               }
@@ -39,30 +51,6 @@
               "state": {
                 "file": "Vault/Reminders.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4ed2e9aa1c008008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/DevLogs/DevLog 17 - X.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "231f4264ef7783b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -86,6 +74,30 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Constants.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d2c7217084f6a7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Changelogs/v0.2 - Prototype Build.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5020f5efc4974de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Credits.md",
                 "mode": "preview",
                 "source": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+                "file": "Vault/TODOChecklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+                "file": "Vault/TODOChecklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/DevLogs/DevLog 8 - JamBuild!.md"
+                "file": "Vault/TODOChecklist.md"
               }
             }
           }
@@ -230,93 +242,57 @@
       "templated-daily-notes:Add new daily note": false
     }
   },
-  "floating": {
-    "id": "e36fd75ee3918d37",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0a71668bb7870d9c",
-        "type": "window",
-        "children": [
-          {
-            "id": "ac3454faf5863429",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e886423795c3237f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vault/DailyLogs/2024-03-20.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 438,
-        "y": 24,
-        "width": 687,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d7d9f59820735978",
+  "active": "8ed94d6da8996426",
   "lastOpenFiles": [
-    "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
-    "Vault/DevLogs/DevLog 8 - JamBuild!.md",
-    "Vault/media/showcases/2024-02-16.mp4",
-    "Vault/DevLogs/DevLog 16 - FL0-W3R T0-W3R.md",
-    "Vault/DailyLogs/2024-03-20.md",
-    "Vault/DailyLogs/2024-03-19.md",
-    "Vault/DailyLogs/2024-03-10.md",
-    "Vault/DailyLogs/2024-03-16.md",
+    "Vault/DailyLogs/2024-04-05.md",
     "Vault/TODOChecklist.md",
-    "Vault/EmojiGuide.md",
     "Vault/Constants.md",
-    "Vault/DailyLogs/2024-03-06.md",
-    "Vault/DevLogs/DevLog 17 - X.md",
-    "Vault/DailyLogs/2024-03-08.md",
+    "Vault/DailyLogs/2024-04-04.md",
+    "Vault/Credits.md",
+    "Vault/DailyLogs/2024-04-01.md",
     "Vault/DailyLogs/2024-03-11.md",
-    "Vault/DailyLogs/2024-03-12.md",
-    "Vault/DailyLogs/2024-03-13.md",
-    "Vault/DailyLogs/2024-03-15.md",
+    "Vault/EmojiGuide.md",
+    "Vault/DailyLogs/2024-04-03.md",
+    "Vault/DailyLogs/2024-03-29.md",
+    "Vault/DailyLogs/2024-03-28.md",
+    "Vault/DailyLogs/2024-03-30.md",
+    "Vault/DailyLogs/2024-03-31.md",
+    "Vault/DailyLogs/2024-04-02.md",
+    "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
+    "Vault/partial-views/home.md",
+    "Vault/DailyLogs/2024-03-05.md",
+    "Vault/Concepts canvas.canvas",
+    "Vault/DevLogs/DevLog 8 - JamBuild!.md",
+    "Vault/DevLogs/DevLog 7 - To the wall.md",
+    "Vault/DevLogs/DevLog 6 - It's spreading.md",
+    "Vault/DevLogs/DevLog 5 - Fire and Water.md",
+    "Vault/DevLogs/DevLog 4 - Pixel imperfect.md",
+    "Vault/DevLogs/DevLog 3 - Robot is born.md",
+    "Vault/DevLogs/DevLog 2 - Idea.md",
+    "Vault/DevLogs/DevLog 1 - Creation.md",
+    "Vault/Changelogs/v0.1 - JAM Build.md",
+    "Vault/media/Main Title concept.png",
+    "Vault/media/assets/tileset/belts.gif",
+    "Vault/media/assets/tileset/decals.png",
+    "Vault/media/assets/tileset/belts.gif.crdownload",
+    "Vault/media/assets/tileset/tileset_animated.gif",
+    "Vault/media/assets/tileset/tileset_animated.gif.crdownload",
+    "Vault/media/assets/tileset/belts.png",
+    "Vault/media/assets/tileset/belts.png.crdownload",
+    "Vault/CollisionsCanvas.canvas",
+    "Vault/media/screenshots/flower_tower_screenshot1.png",
+    "Vault/media/showcases/2024-02-16.mp4",
     "Vault/media/assets/tileset/tileset (5).png",
     "Vault/media/assets/tileset/tileset (5).png.crdownload",
     "Vault/media/assets/tileset/alphabet_tileset.png",
     "Vault/media/assets/tileset/alphabet_tileset.png.crdownload",
-    "Vault/CollisionsCanvas.canvas",
-    "Vault/DevLogs/DevLog 15 - Mouse no more.md",
-    "Vault/DevLogs/DevLog 18 - X.md",
-    "Home.md",
-    "Vault/Showcases.md",
-    "Vault/DailyLogs/2024-03-03.md",
-    "Vault/DailyLogs/2024-03-04.md",
-    "Vault/Concepts canvas.canvas",
-    "Vault/Changelogs.md",
-    "Vault/CollisionsCanvas.md",
     "Vault/media/showcases/2024-01-26 17-34-48.mp4",
     "Vault/media/showcases/2024-03-11 17-34-48.mp4",
     "Vault/media/showcases/2024-03-06 17-18-24.mp4",
     "Vault/media/showcases/2024-02-21 17-25-44.mp4",
-    "Vault/media/showcases/2024-03-11 17-25-44.mp4",
-    "Vault/media/showcases/2024-03-11 17-18-24.mp4",
     "Vault/media/screenshots/ingamescene_clouds_screenshot.png",
     "Vault/media/assets/cursor/cursor_coldfire.png",
-    "Vault/media/assets/cursor/cursor_coldfire.png.crdownload",
-    "Vault/media/assets/cursor/cursor_water.png",
-    "Vault/media/assets/cursor/cursor_fire.png",
     "Untitled.canvas",
-    "Vault/media/screenshots/flower_tower_screenshot2.png",
-    "Vault/media/screenshots/flower_tower_screenshot1.png",
-    "Vault/Fanart.canvas",
-    "Vault/media/fanart/arthur-fanart.jpg",
-    "Vault/media/screenshots/discord/buffer-boost-2.png"
+    "Vault/Fanart.canvas"
   ]
 }

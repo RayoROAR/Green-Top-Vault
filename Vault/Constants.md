@@ -6,11 +6,17 @@ cssclass: clean-embeds, no-spacing-ul
 
 ###### Higher = in front
 
+**-5**
+- Backerground TileMap Layer
+
 **-4**
 - Background TileMap Layer
 
 **-3**
 - BackMidground TileMap Layer *(for decals on Background)*
+
+**-2**
+- Midground TileMap Layer
 
 **-1**
 - Back Arm
@@ -26,11 +32,18 @@ cssclass: clean-embeds, no-spacing-ul
 
 **+4**
 - Foreground TileMap Layer
+- Flag
 
 **+5**
-- Back Arm Particles
+- Secret zone fog of war (Layer0)
 
 **+6**
+- ????
+
+**+7**
+- Back Arm Particles
+
+**+8**
 - Front Arm Particles
 
 **+100**

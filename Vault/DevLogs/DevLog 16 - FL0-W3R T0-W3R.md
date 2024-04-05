@@ -7,7 +7,7 @@ cssclass: clean-embeds
 
 #PreAlphaBuild #v0_2
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 15 - Mouse no more| Prev]] \] - \[ [[DevLog 17 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 15 - Mouse no more| Prev]] \] - \[ [[DevLog 17 - Stainless steel| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
@@ -50,6 +50,6 @@ keeping the title and description short, all info will be in the obsidian devlog
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 15 - Mouse no more| Prev]] \] - \[ [[DevLog 17 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 15 - Mouse no more| Prev]] \] - \[ [[DevLog 17 - Stainless steel| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ![[navbar]]

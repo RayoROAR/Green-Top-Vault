@@ -3,11 +3,11 @@ ctime:: 2024-03-13
 cssclass: clean-embeds
 ---
 ![[backtodevlogs]]
-# DevLog 17 - X
+# DevLog 17 - Stainless steel
 
 #PreAlphaBuild #v0_2
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 16 - FL0-W3R T0-W3R| Prev]] \] - \[ [[DevLog 18 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 16 - FL0-W3R T0-W3R| Prev]] \] - \[ [[DevLog 18 - Slopes and belts| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
@@ -44,6 +44,6 @@ Too tired to compile stuff done, I'll just log it tomorrow
 
 ---
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 16 - FL0-W3R T0-W3R| Prev]] \] - \[ [[DevLog 18 - X | Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 16 - FL0-W3R T0-W3R| Prev]] \] - \[ [[DevLog 18 - Slopes and belts| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ![[navbar]]

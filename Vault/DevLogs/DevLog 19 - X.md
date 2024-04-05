@@ -1,13 +1,13 @@
 ---
-ctime:: 2024-03-19
+ctime:: 2024-03-21
 cssclass: clean-embeds
 ---
 ![[backtodevlogs]]
-# DevLog 18 - X
+# DevLog 19 - X
 
 #PreAlphaBuild #v0_2
 
-\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 17 - X| Prev]] \] - \[ [[DevLog 19 - X| Next]] \] - \[ [[DevLog X - The End | Last]] \]
+\[ [[DevLog 1 - Creation | First]] \] - \[ [[DevLog 18 - Slopes and belts| Prev]] \] - \[ [[DevLog 20 - X| Next]] \] - \[ [[DevLog X - The End | Last]] \]
 
 ---
 
