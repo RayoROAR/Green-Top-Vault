@@ -18,7 +18,8 @@ Column Spacing: 10px
 > 🚀 [Speedrun Leaderboard](https://www.speedrun.com/Green_Top)
 > 🎮 [Discord Server](https://discord.gg/nZxkwavJS4)
 > 🤓 [Dev YouTube Channel](https://www.youtube.com/@roarrayo)
-> 🐦 [Dev Twitter]()
+> 🐦 [Dev Twitter](https://x.com/Rayo75x)
+> 👔 [ROAR Games Twitter](https://x.com/ROARGamesCo)
 > 💾 [Github Game Repository](https://github.com/RayoROAR/GreenTop)
 > 📓 [Github Vault Repository](https://github.com/RayoROAR/Green-Top-Vault)
 
@@ -33,12 +34,14 @@ If you haven't already, I strongly advise you to install Obsidian and open this 
 ---
 
 > #### Lost? Check these out:
+> 📡 [[CompendiumCanvas.canvas | Compendium]]
 > ⚙️ [[Changelogs]]
 > 💡 [[DevLogs]]
 > 🎥 [[Showcases]]
 > 📜 [[TODOChecklist | TODO]]
 > 🖼️ [[Concepts canvas.canvas | Concepts Canvas]]
 > 🎨 [[Fanart.canvas | Fanart Corner]]
+> 🎹 [[Jukebox]]
 
 --- end-multi-column
 

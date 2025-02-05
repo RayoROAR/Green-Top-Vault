@@ -1,0 +1,12 @@
+
+/* Change font size of normal text in preview mode */
+.markdown-preview-view.big-normal-font th:nth-child(2), .markdown-preview-view.big-normal-font td:nth-child(2) {
+    font-size: 1.5em; /* Adjust this value to your desired font size */
+    font-weight: bold;
+}
+
+/* Change font size of normal text in preview mode */
+.markdown-preview-view.big-normal-font th:nth-child(3), .markdown-preview-view.big-normal-font td:nth-child(3) {
+    font-size: 1.2em; /* Adjust this value to your desired font size */
+    font-weight: 400;
+}

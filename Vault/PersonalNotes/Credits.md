@@ -47,19 +47,42 @@ And thank YOU, for playing :)
 
 #### v0.2
 
-**Haven't tried it:**
-JorgeMob
-Nuria
-Enric
+artem
+devrique
+ruhy
+RayGun110
 ViiktorAlive
 JustACrow
+eienes
+PakistaniDanny
+After14
+Natsu723
+JorgeMob
+Yig
+Skull Madness
+Tigamer
+Astron33
+Hinaam
+Rayzark
+CarlOwos
+
+TheCoolestSmoothie
+plasterjello
+spurdo_sparde
+AsthmaticRat
+not_herobrine
+TheNoob950
+okay1272
+
+**Haven't tried it:**
+Nuria
+Enric
 pakito
-skull_madness
+Gus
 
 Willyum
 everydaypotato.inc
 Ax
-TheCoolestSmoothie
 
 
 

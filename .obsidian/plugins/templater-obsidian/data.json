@@ -21,6 +21,10 @@
     {
       "folder": "Vault/DailyLogs",
       "template": "Vault/Templates/dailylog.md"
+    },
+    {
+      "folder": "Compendium",
+      "template": "Vault/Templates/copy-title.md"
     }
   ],
   "syntax_highlighting": true,

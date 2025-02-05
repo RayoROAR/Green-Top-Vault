@@ -8,51 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ed94d6da8996426",
+            "id": "c460f1e9059e5ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/TODOChecklist.md",
+                "file": "Vault/partial-views/home.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "home"
             }
           },
           {
-            "id": "9bc4e3f9456a8a7f",
+            "id": "6ffb53e77f642c47",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Compendium/CompendiumCanvas.canvas",
+                "viewState": {
+                  "x": -323.3621067832728,
+                  "y": -2402.4407411970947,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CompendiumCanvas"
+            }
+          },
+          {
+            "id": "58e48d70753187b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/DailyLogs/2024-04-05.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4ed2e9aa1c008008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
+                "file": "Vault/DailyLogs/2024-03-03.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-03"
             }
           },
           {
-            "id": "8eb6124282975e81",
+            "id": "fc5f856af7779f05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Reminders.md",
+                "file": "Vault/DailyLogs/2024-12-04.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-04"
+            }
+          },
+          {
+            "id": "35fd547fb1284f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Starting boot up sequence.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Starting boot up sequence"
+            }
+          },
+          {
+            "id": "f37ccdfb853d8337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/PropertiesGuide.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PropertiesGuide"
             }
           },
           {
@@ -61,10 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/EmojiGuide.md",
+                "file": "Vault/PersonalNotes/EmojiGuide.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "EmojiGuide"
             }
           },
           {
@@ -73,37 +114,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Constants.md",
+                "file": "Vault/DailyLogs/2024-09-07.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-07"
             }
           },
           {
-            "id": "d2c7217084f6a7d2",
+            "id": "ca919e281f59bfae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Changelogs/v0.2 - Prototype Build.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5020f5efc4974de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Credits.md",
+                "file": "Vault/TODOChecklist.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TODOChecklist"
+            }
+          },
+          {
+            "id": "06de9e221a3046d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/DailyLogs/2024-09-08.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-08"
+            }
+          },
+          {
+            "id": "1ec7dabe64d5f17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/PersonalNotes/TileStatusPainter.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TileStatusPainter"
+            }
+          },
+          {
+            "id": "8676828a78a899a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/PersonalNotes/Credits.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Credits"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +199,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -138,7 +216,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -146,7 +226,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -154,7 +236,9 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ]
@@ -177,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/TODOChecklist.md",
+                "file": "Vault/DailyLogs/2024-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +269,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-03"
             }
           },
           {
@@ -197,7 +283,9 @@
                 "file": "Vault/TODOChecklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODOChecklist"
             }
           },
           {
@@ -208,7 +296,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -217,8 +307,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/TODOChecklist.md"
-              }
+                "file": "Vault/DailyLogs/2024-12-03.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-03"
             }
           }
         ],
@@ -242,57 +334,58 @@
       "templated-daily-notes:Add new daily note": false
     }
   },
-  "active": "8ed94d6da8996426",
+  "active": "ca919e281f59bfae",
   "lastOpenFiles": [
-    "Vault/DailyLogs/2024-04-05.md",
+    "Vault/DailyLogs/2025-02-05.md",
     "Vault/TODOChecklist.md",
-    "Vault/Constants.md",
-    "Vault/DailyLogs/2024-04-04.md",
-    "Vault/Credits.md",
-    "Vault/DailyLogs/2024-04-01.md",
-    "Vault/DailyLogs/2024-03-11.md",
-    "Vault/EmojiGuide.md",
-    "Vault/DailyLogs/2024-04-03.md",
-    "Vault/DailyLogs/2024-03-29.md",
-    "Vault/DailyLogs/2024-03-28.md",
-    "Vault/DailyLogs/2024-03-30.md",
-    "Vault/DailyLogs/2024-03-31.md",
-    "Vault/DailyLogs/2024-04-02.md",
-    "Vault/DevLogs/DevLog 14 - Controlling chaos.md",
-    "Vault/partial-views/home.md",
-    "Vault/DailyLogs/2024-03-05.md",
+    "Vault/DailyLogs/2024-03-23.md",
+    "Compendium/CompendiumCanvas.canvas",
+    "Vault/DailyLogs/2025-01-24.md",
+    "Vault/media/concepts/characters/Wall_square.png",
+    "Vault/media/concepts/characters/Wall_square.png.crdownload",
+    "Vault/media/concepts/characters/Bastion_square.png",
+    "Vault/media/concepts/characters/Bastion_square.png.crdownload",
+    "Vault/media/concepts/characters/Gaia_square.png",
+    "Vault/media/concepts/characters/Gaia_square.png.crdownload",
+    "Vault/media/concepts/characters/Razor_square.png",
+    "Vault/media/concepts/characters/Razor_square.png.crdownload",
+    "Vault/media/concepts/characters/Gaia2.png",
+    "Vault/media/concepts/characters/Gaia.png",
+    "Vault/media/concepts/characters/Bastion.png",
+    "Vault/media/concepts/characters",
+    "Vault/media/concepts/Characters",
+    "Vault/media/concepts/Nueva carpeta",
+    "Vault/DailyLogs/2025-01-05.md",
+    "Vault/DailyLogs/2024-03-03.md",
+    "Vault/DailyLogs/2024-12-04.md",
+    "Vault/DailyLogs/2024-12-03.md",
+    "Vault/DailyLogs/2025-01-04.md",
+    "Vault/Templates/copy-title.md",
     "Vault/Concepts canvas.canvas",
-    "Vault/DevLogs/DevLog 8 - JamBuild!.md",
-    "Vault/DevLogs/DevLog 7 - To the wall.md",
-    "Vault/DevLogs/DevLog 6 - It's spreading.md",
-    "Vault/DevLogs/DevLog 5 - Fire and Water.md",
-    "Vault/DevLogs/DevLog 4 - Pixel imperfect.md",
-    "Vault/DevLogs/DevLog 3 - Robot is born.md",
-    "Vault/DevLogs/DevLog 2 - Idea.md",
-    "Vault/DevLogs/DevLog 1 - Creation.md",
-    "Vault/Changelogs/v0.1 - JAM Build.md",
-    "Vault/media/Main Title concept.png",
-    "Vault/media/assets/tileset/belts.gif",
-    "Vault/media/assets/tileset/decals.png",
-    "Vault/media/assets/tileset/belts.gif.crdownload",
-    "Vault/media/assets/tileset/tileset_animated.gif",
-    "Vault/media/assets/tileset/tileset_animated.gif.crdownload",
-    "Vault/media/assets/tileset/belts.png",
-    "Vault/media/assets/tileset/belts.png.crdownload",
-    "Vault/CollisionsCanvas.canvas",
-    "Vault/media/screenshots/flower_tower_screenshot1.png",
-    "Vault/media/showcases/2024-02-16.mp4",
-    "Vault/media/assets/tileset/tileset (5).png",
-    "Vault/media/assets/tileset/tileset (5).png.crdownload",
-    "Vault/media/assets/tileset/alphabet_tileset.png",
-    "Vault/media/assets/tileset/alphabet_tileset.png.crdownload",
-    "Vault/media/showcases/2024-01-26 17-34-48.mp4",
-    "Vault/media/showcases/2024-03-11 17-34-48.mp4",
-    "Vault/media/showcases/2024-03-06 17-18-24.mp4",
-    "Vault/media/showcases/2024-02-21 17-25-44.mp4",
-    "Vault/media/screenshots/ingamescene_clouds_screenshot.png",
-    "Vault/media/assets/cursor/cursor_coldfire.png",
-    "Untitled.canvas",
-    "Vault/Fanart.canvas"
+    "Vault/DailyLogs/2024-10-02.md",
+    "Vault/partial-views/home.md",
+    "Vault/PersonalNotes/Credits.md",
+    "Vault/DailyLogs/2024-10-30.md",
+    "Vault/DailyLogs/2024-10-01.md",
+    "Vault/media/reference/jotun howls.png",
+    "Vault/media/reference/jotun rolly polly2.jpg",
+    "Vault/media/reference/jotun rolly polly2.jpg.crdownload",
+    "Vault/DailyLogs/2024-09-23.md",
+    "Vault/media/reference/jotun gatring.png",
+    "Vault/media/reference/jotun rolly polly.jpg.crdownload",
+    "Vault/media/reference",
+    "Compendium/Golden Drumkit.md",
+    "Compendium/Tungsten Guitar.md",
+    "Compendium/Copper Bass.md",
+    "Compendium/Iron Synth.md",
+    "Compendium/Steel Triangle.md",
+    "Compendium/Wooden Flute.md",
+    "Compendium/Starting boot up sequence.md",
+    "Vault/DailyLogs/2024-09-21.md",
+    "Vault/DailyLogs/2024-09-13.md",
+    "Compendium/green.md",
+    "Vault/Fanart.canvas",
+    "Vault/PersonalNotes/CollisionsCanvas.canvas",
+    "Untitled.canvas"
   ]
 }

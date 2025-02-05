@@ -14,7 +14,8 @@
     "no-margin-top-header",
     "no-spacing",
     "no-spacing-ul",
-    "wider-scrollbar"
+    "wider-scrollbar",
+    "big-normal-font"
   ],
   "baseFontSize": 16,
   "monospaceFontFamily": "Consolas,Segoe UI Emoji",

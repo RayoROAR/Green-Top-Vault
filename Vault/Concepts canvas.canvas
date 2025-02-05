@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"3d73156cf6953155","type":"file","file":"Vault/media/Green Top world.png","x":-1072,"y":-1131,"width":400,"height":258},
 		{"id":"7af15a11038ee8fc","type":"file","file":"Vault/media/Green Top concept sketch.jpg","x":-1640,"y":-1114,"width":400,"height":225},
-		{"id":"8b83e709ca835175","type":"file","file":"Vault/media/Turning clock world.png","x":-540,"y":-1120,"width":400,"height":236}
+		{"id":"8b83e709ca835175","type":"file","file":"Vault/media/Turning clock world.png","x":-540,"y":-1120,"width":400,"height":236},
+		{"id":"aefca55b192c2479","type":"file","file":"Vault/media/concepts/Titanium Cloud.png","x":260,"y":-1131,"width":400,"height":258}
 	],
 	"edges":[]
 }
